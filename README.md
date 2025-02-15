@@ -1,4 +1,6 @@
-# Network Programming Homework by professer 袁賢銘
+# Network Programming Homework
+
+【 NYCU 2024 fall Semester 】by Professor 袁賢銘
 
 ## HW1: Two-Player Online Game Part 1
 
